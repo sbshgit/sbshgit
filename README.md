@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saba Shirani Rad.
+- 👋 Hi, I’m Saba Shiranirad.
 - 🎓 PharmD and PhD candidate in Artificial Intelligence in Medical Sciences.
 - 💡 Interested in AI, machine learning, graph neural networks, drug discovery and Virtual screening.
 - 🔬 Focused on AI applications in pharmacy, drug discovery, and computational pharmacology
