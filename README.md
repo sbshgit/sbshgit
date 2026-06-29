@@ -2,7 +2,7 @@
 - 🎓 PharmD and PhD candidate in Artificial Intelligence in Medical Sciences.
 - 💡 Interested in AI, machine learning, graph neural networks, drug discovery and Virtual screening.
 - 🔬 Focused on AI applications in pharmacy, drug discovery, and computational pharmacology
-- 🤝 Open to collaboration on interdisciplinary AI projects in healthcare and pharmaceutical sciences
+- 🤝 Open to collaboration on interdisciplinary AI projects in pharmacy (pharmaceutical sciences and drug discovery)
 - 📫 Reach me at: shiraniradsaba@gmail.com
 
 <!---
