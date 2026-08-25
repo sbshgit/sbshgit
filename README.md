@@ -143,32 +143,49 @@ My goal is to develop **interpretable AI methods that can accelerate drug discov
 <h2>🤝 Connect & Collaborate</h2>
 
 <p>
-I’m open to collaborations at the intersection of
-<b>Artificial Intelligence × Drug Discovery × Pharmaceutical Sciences</b>.
+I'm open to collaborations at the intersection of
+<strong>Artificial Intelligence × Drug Discovery × Pharmaceutical Sciences</strong>.
 </p>
 
 <p align="center">
   <a href="mailto:shiraniradsaba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=F15BB5" />
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://www.linkedin.com/in/saba-shiranirad">
-    <img src="https://img.shields.io/badge/LinkedIn-16001E?style=for-the-badge&logo=linkedin&logoColor=FF6EC7" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://www.researchgate.net/profile/Saba-Shiranirad">
-    <img src="https://img.shields.io/badge/ResearchGate-1A0024?style=for-the-badge&logo=researchgate&logoColor=70E1FF" />
+    <img
+      src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"
+      alt="ResearchGate"
+    />
   </a>
   <a href="https://scholar.google.com/citations?user=naQTS70AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-24002F?style=for-the-badge&logo=google-scholar&logoColor=9B5DE5" />
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"
+      alt="Google Scholar"
+    />
   </a>
   <a href="https://orcid.org/0000-0001-8496-8761">
-    <img src="https://img.shields.io/badge/ORCID-32003D?style=for-the-badge&logo=orcid&logoColor=A6CE39" />
+    <img
+      src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
+      alt="ORCID"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PharmD-0B0B0F?style=for-the-badge&logoColor=F15BB5" />
-  <img src="https://img.shields.io/badge/PhD%20Candidate-16001E?style=for-the-badge&logoColor=C77DFF" />
-  <img src="https://img.shields.io/badge/AI%20in%20Medical%20Sciences-24002F?style=for-the-badge&logoColor=FF8FD8" />
+  <strong>PharmD</strong>
+  &nbsp;•&nbsp;
+  <strong>PhD Candidate in Artificial Intelligence in Medical Sciences</strong>
+  &nbsp;•&nbsp;
+  <strong>AI for Drug Discovery</strong>
 </p>
 
 <!---
