@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Saba Shiranirad" width="100%">
+  <img src="banner.png.png" alt="Saba Shiranirad" width="100%">
 </p>
 
 - 👋 Hi, I’m Saba Shiranirad.
