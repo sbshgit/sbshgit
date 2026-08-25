@@ -1,7 +1,3 @@
-![Uploading ChatGPT Image ۳ شهریور ۱۴۰۵، ۱۹_۳۴_۵۴.png…]()
-
-
-
 
 - 👋 Hi, I’m Saba Shiranirad.
 - 🎓 PharmD and PhD candidate in Artificial Intelligence in Medical Sciences.
