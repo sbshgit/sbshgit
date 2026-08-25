@@ -42,7 +42,7 @@ My goal is to develop **interpretable AI methods that can accelerate drug discov
 <img src="https://img.shields.io/badge/HTML-16001E?style=for-the-badge&logo=html5&logoColor=FF6EC7">
 <img src="https://img.shields.io/badge/CSS-1A0024?style=for-the-badge&logo=css3&logoColor=C77DFF">
 <img src="https://img.shields.io/badge/JavaScript-24002F?style=for-the-badge&logo=javascript&logoColor=F8A4D8">
-<img src="https://img.shields.io/badge/MATLAB-32003D?style=for-the-badge&logoColor=FF8FD8">
+
 
 </td>
 
