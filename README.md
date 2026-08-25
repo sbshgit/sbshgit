@@ -138,12 +138,38 @@ My goal is to develop **interpretable AI methods that can accelerate drug discov
 </tr>
 </table>
 
-- 👋 Hi, I’m Saba Shiranirad.
-- 🎓 PharmD and PhD candidate in Artificial Intelligence in Medical Sciences.
-- 💡 Interested in AI, machine learning, graph neural networks, drug discovery and Virtual screening.
-- 🔬 Focused on AI applications in pharmacy, drug discovery, and computational pharmacology
-- 🤝 Open to collaboration on interdisciplinary AI projects in pharmacy (pharmaceutical sciences and drug discovery)
-- 📫 Reach me at: shiraniradsaba@gmail.com
+
+
+<h2>🤝 Connect & Collaborate</h2>
+
+<p>
+I’m open to collaborations at the intersection of
+<b>Artificial Intelligence × Drug Discovery × Pharmaceutical Sciences</b>.
+</p>
+
+<p align="center">
+  <a href="mailto:shiraniradsaba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=F15BB5" />
+  </a>
+  <a href="https://www.linkedin.com/in/saba-shiranirad">
+    <img src="https://img.shields.io/badge/LinkedIn-16001E?style=for-the-badge&logo=linkedin&logoColor=FF6EC7" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Saba-Shiranirad">
+    <img src="https://img.shields.io/badge/ResearchGate-1A0024?style=for-the-badge&logo=researchgate&logoColor=70E1FF" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=naQTS70AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-24002F?style=for-the-badge&logo=google-scholar&logoColor=9B5DE5" />
+  </a>
+  <a href="https://orcid.org/0000-0001-8496-8761">
+    <img src="https://img.shields.io/badge/ORCID-32003D?style=for-the-badge&logo=orcid&logoColor=A6CE39" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PharmD-0B0B0F?style=for-the-badge&logoColor=F15BB5" />
+  <img src="https://img.shields.io/badge/PhD%20Candidate-16001E?style=for-the-badge&logoColor=C77DFF" />
+  <img src="https://img.shields.io/badge/AI%20in%20Medical%20Sciences-24002F?style=for-the-badge&logoColor=FF8FD8" />
+</p>
 
 <!---
 sbshgit/sbshgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
