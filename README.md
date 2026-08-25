@@ -1,3 +1,8 @@
+![Uploading ChatGPT Image ۳ شهریور ۱۴۰۵، ۱۹_۳۴_۵۴.png…]()
+
+
+
+
 - 👋 Hi, I’m Saba Shiranirad.
 - 🎓 PharmD and PhD candidate in Artificial Intelligence in Medical Sciences.
 - 💡 Interested in AI, machine learning, graph neural networks, drug discovery and Virtual screening.
