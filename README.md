@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F15BB5&center=true&vCenter=true&width=850&lines=Saba+Shiranirad;PharmD+and+PhD+Candidate+in+Artificial+Intelligence+in+Medical+Sciences" alt="Saba Shiranirad –  PharmD and PhD in Artificial Intelligence in Medical Sciences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F15BB5&center=true&vCenter=true&width=850&lines=Saba+Shiranirad;PharmD+and+PhD+Candidate+in+Artificial+Intelligence+in+Medical+Sciences" alt="Saba Shiranirad –  PharmD and PhD in AI in Medical Sciences" />
 </p>
 
 <p align="center">
