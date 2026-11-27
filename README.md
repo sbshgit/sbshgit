@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F15BB5&center=true&vCenter=true&width=850&lines=Saba+Shiranirad;PharmD+and+PhD+Candidate+in+Artificial+Intelligence+in+Medical+Sciences" alt="Saba Shiranirad – PharmD and PhD Candidate in Artificial Intelligence in Medical Sciences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F15BB5&center=true&vCenter=true&width=850&lines=Saba+Shiranirad;PharmD+and+PhD+Candidate+in+Artificial+Intelligence+in+Medical+Sciences" alt="Saba Shiranirad –  PharmD and PhD Candidate in Artificial Intelligence in Medical Sciences" />
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@ My research lies at the intersection of **pharmaceutical sciences, artificial in
 - 💊 Drug discovery and virtual screening
 - 🔬 AI-driven pharmaceutical research
 - 🧠 Explainable AI for biomedical applications
+- 🧩 Molecular docking & dynamics simulation
 
 My goal is to develop **interpretable AI methods that can accelerate drug discovery and pharmaceutical research**.
 
@@ -31,7 +32,7 @@ My goal is to develop **interpretable AI methods that can accelerate drug discov
 - Cheminformatics
 - Computational Pharmacology
 - AI-driven Pharmaceutical Sciences
-- 🧩 Molecular docking & dynamics simulation
+
 
 <h2>🛠️ Tech Stack</h2>
 
