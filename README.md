@@ -18,7 +18,7 @@
 
 I'm **Saba Shiranirad**, a **PharmD** and **PhD candidate in Artificial Intelligence in Medical Sciences**.
 
-My research lives where **pharmaceutical sciences**, **artificial intelligence** and **computational drug discovery** meet. I combine deep learning with classical structure-based methods — docking, molecular dynamics and ADMET profiling — to find and understand promising drug candidates.
+My research lives where **pharmaceutical sciences**, **artificial intelligence** and **computational drug discovery** meet. I combine deep learning with classical structure-based methods, docking, molecular dynamics and ADMET profiling, to find and understand promising drug candidates.
 
 > 🎯 **Mission:** develop *interpretable* AI methods that accelerate drug discovery and pharmaceutical research.
 
